@@ -15,7 +15,11 @@ export const useBikeRides = () => {
           throw new Error('Failed to fetch bike rides data');
         }
         const data = await response.json();
-        setBikeRides(data);
+        // Sort rides by date in descending order (most recent first)
+        const sortedData = data.sort((a: BikeRide, b: BikeRide) => {
+          return new Date(b.date).getTime() - new Date(a.date).getTime();
+        });
+        setBikeRides(sortedData);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'An error occurred');
       } finally {
