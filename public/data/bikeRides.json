@@ -3,22 +3,32 @@
     "id": "1",
     "title": "Thiruthani with Guys",
     "date": "2024-01-15",
-    "youtubeIds": ["tduggZt6Y04"],
+    "youtubeIds": ["tduggZt6Y04","0jz0egp-1zk","JtAQFZNUIIo","EF2ZnAvTddE"],
     "description": "Epic mountain trail ride through the Alpine Pass with stunning views and challenging terrain. This adventure was captured from multiple angles including the ascent, summit views, and thrilling descent.",
     "tags": ["Mountain", "Trail", "Alpine", "Challenging"],
     "location": "Colorado, USA",
-    "distance": "25 miles",
-    "duration": "3h 15m"
+    "distance": "around 250 Kms"
   },
   {
     "id": "2",
     "title": "ECR beach on evening on crucing hype.",
     "date": "2024-01-08",
-    "youtubeIds": ["NwcD-VQXkd0","ZZdJY3B1-9Q","vJ9sgrBmXCE","3-hpUzhXtfU","a0FcwIgdrIU","Drw0MJnMPUo","ehElYkdbLTo","ehElYkdbLTo","9w6Fd0WYUFI"],
+    "youtubeIds": ["ehElYkdbLTo","Drw0MJnMPUo","9w6Fd0WYUFI","a0FcwIgdrIU","3-hpUzhXtfU","vJ9sgrBmXCE","ZZdJY3B1-9Q","NwcD-VQXkd0"],
     "description": "Me and my cousin watching some random videos on youtube and I was hyped after watching a Ninja crucing in a video, So then i thought. Ok come lesgo for a ride.",
     "tags": ["Beach", "ECR", "Evening"],
     "location": "ECR Chennia",
-    "distance": "70 KM",
+    "distance": "70 Kms",
+    "duration": ""
+  },
+  {
+    "id": "3",
+    "title": "MT15 to ECR for a birthday treat.",
+    "date": "2024-01-08",
+    "youtubeIds": ["Cyy8pBhvrB4","DA_Z5dERc-o","P9xeBYyaos4","zlRFhpzQ0TM"],
+    "description": "Me and my cousin watching some random videos on youtube and I was hyped after watching a Ninja crucing in a video, So then i thought. Ok come lesgo for a ride.",
+    "tags": ["Beach", "ECR", "Evening"],
+    "location": "ECR Chennia",
+    "distance": "70-100 Kms",
     "duration": ""
   }
 ]
