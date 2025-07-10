@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "title": "Mountain Trail Adventure - Alpine Pass",
+    "date": "2024-01-15",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Epic mountain trail ride through the Alpine Pass with stunning views and challenging terrain. This adventure was captured from multiple angles including the ascent, summit views, and thrilling descent.",
+    "tags": ["Mountain", "Trail", "Alpine", "Challenging"],
+    "location": "Colorado, USA",
+    "distance": "25 miles",
+    "duration": "3h 15m"
+  },
+  {
+    "id": "2",
+    "title": "Coastal Highway Cruise",
+    "date": "2024-01-08",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Relaxing coastal ride along the Pacific Coast Highway with ocean breeze and scenic stops. Captured both the morning departure and sunset arrival.",
+    "tags": ["Coastal", "Highway", "Scenic", "Relaxing"],
+    "location": "California, USA",
+    "distance": "45 miles",
+    "duration": "2h 30m"
+  },
+  {
+    "id": "3",
+    "title": "Urban City Explorer",
+    "date": "2024-01-02",
+    "youtubeIds": ["dQw4w9WgXcQ"],
+    "description": "City exploration ride through downtown streets, parks, and hidden urban gems.",
+    "tags": ["Urban", "City", "Explorer", "Parks"],
+    "location": "Portland, Oregon",
+    "distance": "18 miles",
+    "duration": "1h 45m"
+  },
+  {
+    "id": "4",
+    "title": "Desert Sunset Ride",
+    "date": "2023-12-28",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ", "dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Beautiful desert landscape ride during golden hour with incredible sunset views. Multiple perspectives captured including drone footage, helmet cam, and stationary sunset shots.",
+    "tags": ["Desert", "Sunset", "Landscape", "Golden Hour"],
+    "location": "Arizona, USA",
+    "distance": "32 miles",
+    "duration": "2h 45m"
+  },
+  {
+    "id": "5",
+    "title": "Forest Trail Discovery",
+    "date": "2023-12-20",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Peaceful forest trail ride through dense woods with wildlife spotting opportunities. Includes both the main trail footage and wildlife encounter highlights.",
+    "tags": ["Forest", "Trail", "Wildlife", "Nature"],
+    "location": "Washington State",
+    "distance": "22 miles",
+    "duration": "2h 10m"
+  },
+  {
+    "id": "6",
+    "title": "Lake Loop Challenge",
+    "date": "2023-12-15",
+    "youtubeIds": ["dQw4w9WgXcQ"],
+    "description": "Challenging loop around the mountain lake with steep climbs and rewarding views.",
+    "tags": ["Lake", "Loop", "Challenge", "Mountain"],
+    "location": "Montana, USA",
+    "distance": "38 miles",
+    "duration": "3h 30m"
+  },
+  {
+    "id": "7",
+    "title": "Riverside Path Morning Ride",
+    "date": "2023-12-10",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Early morning ride along the peaceful riverside path with misty views and wildlife encounters.",
+    "tags": ["Riverside", "Morning", "Peaceful", "Wildlife"],
+    "location": "Oregon, USA",
+    "distance": "15 miles",
+    "duration": "1h 30m"
+  },
+  {
+    "id": "8",
+    "title": "Hill Country Challenge",
+    "date": "2023-12-05",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Challenging hill country ride with steep climbs and fast descents through rolling terrain.",
+    "tags": ["Hills", "Challenge", "Climbing", "Speed"],
+    "location": "Texas, USA",
+    "distance": "42 miles",
+    "duration": "3h 45m"
+  },
+  {
+    "id": "9",
+    "title": "Autumn Colors Tour",
+    "date": "2023-11-28",
+    "youtubeIds": ["dQw4w9WgXcQ"],
+    "description": "Beautiful autumn ride through colorful foliage and scenic country roads.",
+    "tags": ["Autumn", "Scenic", "Colors", "Country"],
+    "location": "Vermont, USA",
+    "distance": "28 miles",
+    "duration": "2h 15m"
+  },
+  {
+    "id": "10",
+    "title": "Beach Boardwalk Cruise",
+    "date": "2023-11-20",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Relaxing ride along the beach boardwalk with ocean views and pier stops.",
+    "tags": ["Beach", "Boardwalk", "Ocean", "Relaxing"],
+    "location": "Florida, USA",
+    "distance": "12 miles",
+    "duration": "1h 15m"
+  },
+  {
+    "id": "11",
+    "title": "Canyon Adventure Ride",
+    "date": "2023-11-15",
+    "youtubeIds": ["dQw4w9WgXcQ", "dQw4w9WgXcQ", "dQw4w9WgXcQ"],
+    "description": "Thrilling canyon ride with dramatic rock formations and challenging terrain.",
+    "tags": ["Canyon", "Adventure", "Rock", "Challenging"],
+    "location": "Utah, USA",
+    "distance": "35 miles",
+    "duration": "3h 20m"
+  },
+  {
+    "id": "12",
+    "title": "Wine Country Tour",
+    "date": "2023-11-10",
+    "youtubeIds": ["dQw4w9WgXcQ"],
+    "description": "Leisurely ride through wine country with vineyard views and tasting stops.",
+    "tags": ["Wine", "Country", "Vineyard", "Leisurely"],
+    "location": "Napa Valley, California",
+    "distance": "20 miles",
+    "duration": "2h 30m"
+  }
+]
