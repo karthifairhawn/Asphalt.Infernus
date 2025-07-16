@@ -30,5 +30,16 @@
     "tags": ["Trip", "Above 100"],
     "location": "Thiruthani",
     "distance": "around 250 Kms"
+  },
+  {
+    "id": "1",
+    "title": "To M M Nagar Joggging",
+    "date": "2024-07-24",
+    "youtubeIds": ["v_hOIKFKxaQ"],
+    "description": "",
+    "tags": ["Trip", "Above 100"],
+    "location": "MM nagar",
+    
+    "distance": "5 Kms"
   }
 ]
